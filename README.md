@@ -5,7 +5,7 @@
 [Você pode acessar o link curso aqui](https://www.udemy.com/course/html-e-css-o-inicio/).
 
 ##
-📌No projeto foi utilizado HTML e CSS
+📌No projeto foi utilizado HTML, CSS e JavaScript
 
 
 ##
